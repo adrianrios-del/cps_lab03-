@@ -6,5 +6,5 @@ public class Application {
         // TODO Auto-generated method stub
         System.out.println("Inicializando la aplicación CPS Lab03...");
     }
-
+// Cambio de prueba.
 }
